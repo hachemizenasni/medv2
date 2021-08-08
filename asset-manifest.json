@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/medv2/static/css/main.5bba704e.chunk.css",
+    "main.js": "/medv2/static/js/main.11e09f94.chunk.js",
+    "main.js.map": "/medv2/static/js/main.11e09f94.chunk.js.map",
+    "runtime-main.js": "/medv2/static/js/runtime-main.5611b75a.js",
+    "runtime-main.js.map": "/medv2/static/js/runtime-main.5611b75a.js.map",
+    "static/js/2.5f497d90.chunk.js": "/medv2/static/js/2.5f497d90.chunk.js",
+    "static/js/2.5f497d90.chunk.js.map": "/medv2/static/js/2.5f497d90.chunk.js.map",
+    "index.html": "/medv2/index.html",
+    "static/css/main.5bba704e.chunk.css.map": "/medv2/static/css/main.5bba704e.chunk.css.map",
+    "static/js/2.5f497d90.chunk.js.LICENSE.txt": "/medv2/static/js/2.5f497d90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/medv2/static/media/img-8.55c34d54.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5611b75a.js",
+    "static/js/2.5f497d90.chunk.js",
+    "static/css/main.5bba704e.chunk.css",
+    "static/js/main.11e09f94.chunk.js"
+  ]
+}
