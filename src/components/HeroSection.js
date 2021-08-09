@@ -13,7 +13,7 @@ function HeroSection() {
         muted
       />
       <h1>MEDICA PHARMACY</h1>
-      <p>THE FIRST ONLINE PHARMACY</p>
+     
       <div className="hero-btns">
         <Button
           className="btns"
